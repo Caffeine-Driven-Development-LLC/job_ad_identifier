@@ -26,5 +26,4 @@ The train model script trains a tensorflow model on the training data and saves 
 
 The test model script loads the model and tests it on the test data to get an idea of how accurate the model is.
 
-Currently, the model is running at 99.2% accuracy on the test data.
 
